@@ -6,7 +6,7 @@
 
 ---
 
-## 🧠 Tecnologias mais usadas
+<h2> 🧠 Tecnologias mais usadas </h2>
 
 <div style="display: flex; align-items: center; justify-content: space-evenly">
 
