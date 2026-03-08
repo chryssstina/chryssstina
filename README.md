@@ -8,7 +8,7 @@
 
 ## 🧠 Tecnologias mais usadas
 
-<div style="display: flex; align-items: center;"><br>
+<div style="display: flex; align-items: center; gap: 10px"><br>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
 
