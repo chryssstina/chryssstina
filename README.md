@@ -60,6 +60,20 @@ Descrição: Seja bem-vindo ao mundo dos gatinhos!
 
 ---
 
+## 🚀 Principais Projetos
+
+<div align="center">
+
+<a href="https://github.com/chryssstina/Adocao_de_Animais_React">
+<img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=chryssstina&repo=Adocao_de_Animais_React&theme=tokyonight"/>
+</a>
+
+<a href="https://github.com/SEUUSUARIO/projeto2">
+<img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=SEUUSUARIO&repo=projeto2&theme=tokyonight"/>
+</a>
+
+</div>
+
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chryssstina&show_icons=true&theme=tokyonight)
