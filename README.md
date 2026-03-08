@@ -2,13 +2,13 @@
 
 🎓 Estudante de Ciência da Computação no Instituto Federal do Ceará  
 🚀 Interessada em desenvolvimento Full Stack  
-🔗 LinkedIn: [LINKEDIN](https://www.linkedin.com/in/chrystina-lima-509583314)
+🔗 Veja meu: [Linkedin](https://www.linkedin.com/in/chrystina-lima-509583314)
 
 ---
 
 ## 🧠 Tecnologias mais usadas
 
-<div ><br>
+<div style="display: flex"><br>
 
 <img align="center" alt="HTML" height="40" width="50"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
