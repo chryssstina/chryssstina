@@ -7,19 +7,18 @@
 ---
 
 
-
 ## 🧠 Tecnologias mais usadas
 
 <div align="center">
 
 <table>
 <tr>
-<td align="center" width="100">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/><br>HTML
+<td align="center" width="80">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/><br>HTML
 </td>
 
-<td align="center" width="100">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/><br>CSS
+<td align="center" width="80">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/><br>CSS
 </td>
 
 <td align="center" width="100">
@@ -59,20 +58,6 @@ Descrição: Adotar é um ato de amor. Conheça nossos amigos de quatro patas qu
 Descrição: Seja bem-vindo ao mundo dos gatinhos! 
 
 ---
-
-## 🚀 Principais Projetos
-
-<div align="center">
-
-<a href="https://github.com/chryssstina/Adocao_de_Animais_React">
-<img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=chryssstina&repo=Adocao_de_Animais_React&theme=tokyonight"/>
-</a>
-
-<a href="https://github.com/SEUUSUARIO/projeto2">
-<img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=SEUUSUARIO&repo=projeto2&theme=tokyonight"/>
-</a>
-
-</div>
 
 ## 📊 GitHub Stats
 
