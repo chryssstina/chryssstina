@@ -1,7 +1,8 @@
 <h1> Olá, eu sou Chrystina <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> </h1>
 <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=D9BED1&width=435&lines=Olá%2C+,+eu+sou;Chrystina" alt="Chrystina"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=D9BED1&width=435&lines=Olá%2C++eu+sou+Chrystina" alt="Chrystina"/>
 </a>
+
 🎓 Estudante de Ciência da Computação no Instituto Federal do Ceará  
 🚀 Interessada em desenvolvimento Full Stack  
 🔗 Me acompanhe no [Linkedin](https://www.linkedin.com/in/chrystina-lima-509583314)
