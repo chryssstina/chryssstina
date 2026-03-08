@@ -8,25 +8,19 @@
 
 ## 🧠 Tecnologias mais usadas
 
-<div style="display: flex; gap: 10px; align-items: center;"><br>
+<div style="display: flex; align-items: center;"><br>
 
-<img align="center" alt="HTML" height="40" width="50"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
 
-<img align="center" alt="CSS" height="40" width="50"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
 
-<img align="center" alt="JavaScript" height="40" width="50"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
 
-<img align="center" alt="NodeJS" height="40" width="50"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" />
 
-<img align="center" alt="Express" height="40" width="50"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" />
 
-<img align="center" alt="Prisma" height="40" width="50"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" height="40" />
 
 </div>
 
